@@ -24,4 +24,4 @@ In less than 100 lines of code (excluding comments and spacing), I created a web
 
 ## Resources
 * I first watched [this](https://www.youtube.com/watch?v=RUQWPJ1T6Zc&t=281s) tutorial from the 2020 PyCon US conference to gain a basic understanding of web scraping.
-* I gathered a few ideas from [this] article on scraping mapmyrun.com using R, though using python meant forging my own path for most of my code.
+* I gathered a few ideas from [this](https://towardsdatascience.com/mapping-physical-activity-with-r-selenium-and-leaflet-ac3002886728) article on scraping mapmyrun.com using R, though using python meant forging my own path for most of my code.

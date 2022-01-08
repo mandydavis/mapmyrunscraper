@@ -8,7 +8,7 @@ As the COVID pandemic continued consuming our days and options for activities, I
 
 ## Outcome
 In less than 100 lines of code (excluding comments and spacing), I created a web scraper to navigate mapmyrun.com that downloaded the 7,600 total running activities that users uploaded to the site in the year of 2020. Though stock prices, app downloads, and my personal hunch would suggest otherwise, the data show that New Year's Resolutions were much more impactful in convincing people to lace up their shoes and go out for a run. (Recall that in the US, the pandemic was not a large concern domestically until March 2020). Of course, this theory is not perfect—perhaps New Year's Resolutioners are more app saavy than their pandemic-stir-crazy counterparts. You can view the 2020 mapmyrun running trend yourself in the graph below (yes, it needs some work):
-![2020 running trends graph](2020_running_trend_viz)
+![2020 running trends graph](2020_running_trend_viz.png)
 
 ## How to run this code [work in progress -- need to do some investigating]
 (Please note that this code may become outdated with later versions of the mapmyrun website or even Chrome. If Chrome has updated, you will need to change the version in `requirements.txt` for Selenium.)

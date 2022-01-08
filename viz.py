@@ -3,8 +3,8 @@ import pandas
 
 # Read in data
 runs_2020 = pandas.read_csv('runs_2020.csv')
+# creates a new DF that holds the total count of runs on each data in 2020
 count_runs_2020 = runs_2020.groupby(['Date']).count()
-# count_runs_2020 = runs_2020.groupby('Date').agg('count')
 print(count_runs_2020)
 
 # Create figure and plot space
